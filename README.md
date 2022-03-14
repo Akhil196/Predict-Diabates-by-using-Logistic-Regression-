@@ -1,2 +1,2 @@
-# Predict-Diabates-by-using-Logistic-Regression-
-The Whole project about the Predict the person is Diabatic or not by using the Logistic Regression . 
+# Predict-Diabates-by-using-Logistic-Regression- 
+One in six people with diabetes in the world is from India. The numbers place the country among the top 10 countries for people with diabetes, coming in at number two with an estimated 77 million diabetics. China leads the list with over 116 million diabetics. The Whole project about the Predict the person is Diabatic or not by using the Logistic Regression .
